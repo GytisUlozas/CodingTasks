@@ -1,0 +1,9 @@
+.vscode
+.vs
+bin
+obj
+node_modules
+.idea
+*.sln.DotSettings
+*.sln.DotSettings.user
+*.bak
